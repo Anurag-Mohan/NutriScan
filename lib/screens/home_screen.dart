@@ -72,7 +72,7 @@ class _HomeScreenState extends State<HomeScreen> {
         children: const [
           ScannerView(),
           ProductDetails(),
-          HistoryList(),
+          const SmartShoppingChecklist(),
         ],
       ),
       bottomNavigationBar: BottomNavigationBar(
@@ -86,8 +86,8 @@ class _HomeScreenState extends State<HomeScreen> {
             label: 'Product',
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.history),
-            label: 'History',
+            icon: Icon(Icons.add_task),
+            label: 'Checklist',
           ),
         ],
         currentIndex: _selectedIndex,
