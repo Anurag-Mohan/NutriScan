@@ -46,7 +46,7 @@
         <sub><b>🔍 Scanner Screen</b></sub>
       </td>
       <td align="center">
-        <img src="screenshots/screenshots/Screenshot_2025-05-24-11-34-23-098_com.example.nutrifinder.jpg" width="250" alt="Product Details"/>
+        <img src="screenshots/Screenshot_2025-05-24-11-34-23-098_com.example.nutrifinder.jpg" width="250" alt="Product Details"/>
         <br/>
         <sub><b>📊 Product Details</b></sub>
       </td>
