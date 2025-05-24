@@ -164,9 +164,6 @@ We welcome contributions from the community! Here's how you can help:
 - Update documentation as needed
 - Ensure compatibility across platforms
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
