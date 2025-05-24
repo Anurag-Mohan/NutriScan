@@ -41,7 +41,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="screenshots/scanner_screen.png" width="250" alt="Scanner Screen"/>
+        <img src="screenshots/Screenshot_2025-05-24-11-39-41-519_com.example.nutrifinder.jpg" width="250" alt="Scanner Screen"/>
         <br/>
         <sub><b>🔍 Scanner Screen</b></sub>
       </td>
@@ -51,7 +51,7 @@
         <sub><b>📊 Product Details</b></sub>
       </td>
       <td align="center">
-        <img src="screenshots/shopping_list.png" width="250" alt="Shopping List"/>
+        <img src="screenshots/Screenshot_2025-05-24-11-49-21-487_com.example.nutrifinder.jpg" width="250" alt="Shopping List"/>
         <br/>
         <sub><b>📝 Shopping List</b></sub>
       </td>
