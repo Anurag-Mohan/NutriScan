@@ -170,7 +170,6 @@ We welcome contributions from the community! Here's how you can help:
 - **OpenFoodFacts** - For providing comprehensive food product data
 - **Flutter Team** - For the amazing cross-platform framework
 - **Material Design** - For design inspiration and guidelines
-- **Contributors** - Thank you to all who have contributed to this project
 
 ## 📞 Contact & Support
 
